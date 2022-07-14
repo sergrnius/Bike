@@ -184,23 +184,6 @@ window.addEventListener('DOMContentLoaded', () => {
 
     // order slide
 
-    // let orderBtn = document.querySelectorAll('.order__btn');
-    // let orderSlide = document.querySelectorAll('.order__img');
-
-    // orderBtn.forEach((item, i) => {
-    //     item.setAttribute('data-order-btn', i + 1)
-    // })
-
-    // orderSlide.forEach((item, i) => {
-    //     item.setAttribute('data-order-slide', i + 1)
-    // })
-
-    // orderBtn.forEach(item => {
-    //     item.addEventListener('click', () => {
-
-    //     })
-    // })
-
     let orderSliderRed = document.querySelector('[data-redBike]');
     let orderSliderGrey = document.querySelector('[data-greyBike]');
     let orderSliderWhite = document.querySelector('[data-whiteBike]');
