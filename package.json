@@ -1,0 +1,16 @@
+{
+  "name": "bike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://sergrnius.github.io/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deplou": "123"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
